@@ -1,4 +1,6 @@
 # Bootstrap2WordPress_Project_1
 
 
-// This is the basic index set up I like to use, usually not including the nav becouse it always changes. 
+// Today I added the hero section to the main index file of my basic HTML construction. 
+
+// This was done from Section 3, Lecture 13 of Bootstrap 2 WordPress Udemy cource. 
